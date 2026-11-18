@@ -14,6 +14,8 @@ Aplicação Next.js para listar, criar, editar e excluir tarefas. O backend mant
 - **Bônus: infinite scroll**: `src/modules/tarefa/ui/components/carregar-mais.tsx` e `src/modules/tarefa/ui/hooks/use-tarefas.ts`.
 - **Bônus: documentação**: este README e comentários nas decisões do código.
 
+Board do projeto (planejamento em Epic, Story e Task): [GitHub Project](https://github.com/users/carlosbandelli/projects/5).
+
 Stack: Next.js 16 (App Router), React 19, tRPC 11 com TanStack Query 5, Zod 4, react-hook-form, Tailwind CSS 4 e componentes shadcn/ui.
 
 ## Como rodar
