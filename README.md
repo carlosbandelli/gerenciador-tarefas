@@ -1,5 +1,7 @@
 # Gerenciador de Tarefas
 
+**Português** | [English](README.en.md)
+
 Aplicação Next.js para listar, criar, editar e excluir tarefas. O backend mantém a lista em memória (sem banco de dados) e é exposto via tRPC, na mesma aplicação. Todos os dados são fictícios.
 
 ![Demonstração: criar, editar, excluir e rolar a lista de tarefas](docs/demo/demo.gif)
