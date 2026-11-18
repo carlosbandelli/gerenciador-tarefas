@@ -1,0 +1,5 @@
+# Força LF no repositório e na cópia de trabalho: o Prettier exige LF
+# e o core.autocrlf do Windows converteria para CRLF no checkout.
+* text=auto eol=lf
+*.ico binary
+*.png binary

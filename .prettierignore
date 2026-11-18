@@ -1,0 +1,10 @@
+.next
+node_modules
+package-lock.json
+AGENTS.md
+playwright-report
+test-results
+blob-report
+
+# Diagramas gerados (HTML autocontido; não reformatar)
+docs/diagramas/*.html
