@@ -2,6 +2,15 @@
 
 Aplicação Next.js para listar, criar, editar e excluir tarefas. O backend mantém a lista em memória (sem banco de dados) e é exposto via tRPC, na mesma aplicação. Todos os dados são fictícios.
 
+![Demonstração: criar, editar, excluir e rolar a lista de tarefas](docs/demo/demo.gif)
+
+<details>
+<summary>Captura da listagem</summary>
+
+![Listagem de tarefas](docs/demo/listagem.png)
+
+</details>
+
 ## Requisitos do enunciado
 
 - **CRUD via tRPC** (`criar`, `listar`, `buscarPorId`, `atualizar`, `deletar`): `src/modules/tarefa/interface/tarefa-router.ts`.
